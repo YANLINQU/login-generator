@@ -18,8 +18,10 @@ public class LoginGeneratorTest {
 
     @Test
     public void testGenerateLoginForNomAndPrenom(){
-        assertNotEquals("PDUR",this.loginGenerator.generateLoginForNomAndPrenom("Durand","Paul"));
+        assertEquals("PDUR",this.loginGenerator.generateLoginForNomAndPrenom("Durand","Paul"));
         assertEquals("JROL1",this.loginGenerator.generateLoginForNomAndPrenom("Rolling","Jean"));
         assertEquals("PDUR1",this.loginGenerator.generateLoginForNomAndPrenom("Dùrand","Paul"));
     }
+
+  
 }

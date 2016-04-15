@@ -22,8 +22,16 @@ public class LoginGeneratorTest {
         assertEquals("JROL1",this.loginGenerator.generateLoginForNomAndPrenom("Rolling","Jean"));
         assertEquals("PDUR1",this.loginGenerator.generateLoginForNomAndPrenom("Dùrand","Paul"));
     }
+<<<<<<< HEAD
     @Test
     public void testCorrectionsLoginGenerator(){
         assertEquals("PDU",this.loginGenerator.generateLoginForNomAndPrenom("Du","Paul"));
+=======
+
+    @Test
+    public void testCorrectionsLoginGenerator(){
+        assertEquals("PDU",this.loginGenerator.generateLoginForNomAndPrenom("Du","Paul"));
+        assertEquals("JRAL2",this.loginGenerator.generateLoginForNomAndPrenom("Ralling","John"));
+>>>>>>> correctionsLoginGenerator
     }
 }

@@ -20,6 +20,10 @@ public class LoginGenerator {
      */
     static final int NUMERONOM = 3;
     /**
+     * NUMEROCOUT.
+     */
+    static final int NUMEROCOUT = 2;
+    /**
      * Construit un login generator.
      * @param loginServiceT le service de login
      */
@@ -49,10 +53,18 @@ public class LoginGenerator {
     public final String generateLoginForNomAndPrenom(final String nom,
                                                      final String prenom) {
         String p = deAccent(prenom.substring(0, NUMEROPRENOM).toUpperCase());
-        String n = deAccent(nom.substring(0, NUMERONOM).toUpperCase());
+        String n = null;
+        if (nom.length() < NUMERONOM) {
+            n = deAccent(nom.substring(0, NUMEROCOUT).toUpperCase());
+        } else {
+            n = deAccent(nom.substring(0, NUMERONOM).toUpperCase());
+        }
         String login = p + n;
         if (loginService.loginExists(login)) {
             login = login + "1";
+            if (loginService.loginExists(login)) {
+                login = p + n + "2";
+            }
         }
         loginService.addLogin(login);
         return login;

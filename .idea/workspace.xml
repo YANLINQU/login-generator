@@ -2,7 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a9c94ec-de3e-4a46-af52-5460a54a13ac" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/LoginGeneratorTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/LoginGeneratorTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/xref-test/LoginGeneratorTest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/LoginGeneratorTest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-LoginGeneratorTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/cobertura/cobertura.ser" afterPath="$PROJECT_DIR$/target/cobertura/cobertura.ser" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/login-generator-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/login-generator-1.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/checkstyle-cachefile" afterPath="$PROJECT_DIR$/target/checkstyle-cachefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/findbugsXml.xml" afterPath="$PROJECT_DIR$/target/findbugsXml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/cobertura.properties" afterPath="$PROJECT_DIR$/target/generated-classes/cobertura/cobertura.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/cobertura/dcll.LoginGenerator.html" afterPath="$PROJECT_DIR$/target/site/cobertura/dcll.LoginGenerator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/cobertura/dcll.LoginService.html" afterPath="$PROJECT_DIR$/target/site/cobertura/dcll.LoginService.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/cobertura/frame-sourcefiles-dcll.html" afterPath="$PROJECT_DIR$/target/site/cobertura/frame-sourcefiles-dcll.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/cobertura/frame-sourcefiles.html" afterPath="$PROJECT_DIR$/target/site/cobertura/frame-sourcefiles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/cobertura/frame-summary-dcll.html" afterPath="$PROJECT_DIR$/target/site/cobertura/frame-summary-dcll.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/cobertura/frame-summary.html" afterPath="$PROJECT_DIR$/target/site/cobertura/frame-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/xref-test/allclasses-frame.html" afterPath="$PROJECT_DIR$/target/site/xref-test/allclasses-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/xref-test/package-frame.html" afterPath="$PROJECT_DIR$/target/site/xref-test/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/xref-test/package-summary.html" afterPath="$PROJECT_DIR$/target/site/xref-test/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/LoginServiceTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/LoginServiceTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-LoginServiceTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-LoginServiceTest.xml" />
     </list>
     <ignored path="login-generator.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -830,7 +851,7 @@
       <updated>1460719918952</updated>
       <workItem from="1460719921856" duration="434000" />
       <workItem from="1460721960720" duration="15000" />
-      <workItem from="1460724039957" duration="610000" />
+      <workItem from="1460724039957" duration="645000" />
     </task>
     <servers />
   </component>
@@ -867,7 +888,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1080000" />
+    <option name="totallyTimeSpent" value="1115000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1378" height="744" extended-state="0" />

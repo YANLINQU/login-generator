@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a9c94ec-de3e-4a46-af52-5460a54a13ac" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/LoginGeneratorTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/LoginGeneratorTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/xref-test/LoginGeneratorTest.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/LoginGeneratorTest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-LoginGeneratorTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/cobertura/cobertura.ser" afterPath="$PROJECT_DIR$/target/cobertura/cobertura.ser" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/login-generator-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/login-generator-1.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/checkstyle-cachefile" afterPath="$PROJECT_DIR$/target/checkstyle-cachefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/findbugsXml.xml" afterPath="$PROJECT_DIR$/target/findbugsXml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/cobertura.properties" afterPath="$PROJECT_DIR$/target/generated-classes/cobertura/cobertura.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/cobertura/dcll.LoginGenerator.html" afterPath="$PROJECT_DIR$/target/site/cobertura/dcll.LoginGenerator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/cobertura/dcll.LoginService.html" afterPath="$PROJECT_DIR$/target/site/cobertura/dcll.LoginService.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/cobertura/frame-sourcefiles-dcll.html" afterPath="$PROJECT_DIR$/target/site/cobertura/frame-sourcefiles-dcll.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/cobertura/frame-sourcefiles.html" afterPath="$PROJECT_DIR$/target/site/cobertura/frame-sourcefiles.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/cobertura/frame-summary-dcll.html" afterPath="$PROJECT_DIR$/target/site/cobertura/frame-summary-dcll.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/cobertura/frame-summary.html" afterPath="$PROJECT_DIR$/target/site/cobertura/frame-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/xref-test/allclasses-frame.html" afterPath="$PROJECT_DIR$/target/site/xref-test/allclasses-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/xref-test/package-frame.html" afterPath="$PROJECT_DIR$/target/site/xref-test/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/xref-test/package-summary.html" afterPath="$PROJECT_DIR$/target/site/xref-test/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/LoginServiceTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/LoginServiceTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-LoginServiceTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-LoginServiceTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/dcll/LoginGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/dcll/LoginGenerator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/LoginGeneratorTest.java" afterPath="$PROJECT_DIR$/src/test/java/LoginGeneratorTest.java" />
     </list>
     <ignored path="login-generator.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,7 +31,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-27.821428">
               <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
               <folding />
             </state>
@@ -79,11 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginGenerator.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LoginGenerator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/dcll/LoginGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="66" column="27" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="27" />
+            <state vertical-scroll-proportion="0.62637365">
+              <caret line="62" column="46" selection-start-line="62" selection-start-column="46" selection-end-line="62" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,11 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginGeneratorTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LoginGeneratorTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/LoginGeneratorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6868132">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -137,9 +118,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/dcll/package-info.java" />
         <option value="$PROJECT_DIR$/src/main/java/dcll/LoginService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dcll/LoginGenerator.java" />
         <option value="$PROJECT_DIR$/src/test/java/LoginServiceTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/LoginGeneratorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dcll/LoginGenerator.java" />
       </list>
     </option>
   </component>
@@ -856,24 +837,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LoginGeneratorTest - 2016.04.15 at 14h 44m 37s.xml">
-      <configuration name="LoginGeneratorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoginGeneratorTest - 2016.04.15 at 14h 46m 03s.xml">
-      <configuration name="LoginGeneratorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoginGeneratorTest - 2016.04.15 at 14h 46m 20s.xml">
-      <configuration name="LoginGeneratorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoginGeneratorTest - 2016.04.15 at 14h 46m 41s.xml">
-      <configuration name="LoginGeneratorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoginGeneratorTest - 2016.04.15 at 14h 47m 03s.xml">
-      <configuration name="LoginGeneratorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoginGeneratorTest - 2016.04.15 at 14h 47m 20s.xml">
-      <configuration name="LoginGeneratorTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LoginGeneratorTest - 2016.04.15 at 14h 47m 36s.xml">
       <configuration name="LoginGeneratorTest" configurationId="JUnit" />
     </history-entry>
@@ -886,9 +849,27 @@
     <history-entry file="LoginGeneratorTest - 2016.04.15 at 14h 49m 05s.xml">
       <configuration name="LoginGeneratorTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="LoginGeneratorTest - 2016.04.15 at 15h 06m 02s.xml">
+      <configuration name="LoginGeneratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginGeneratorTest - 2016.04.15 at 15h 06m 28s.xml">
+      <configuration name="LoginGeneratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginGeneratorTest - 2016.04.15 at 15h 08m 30s.xml">
+      <configuration name="LoginGeneratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginGeneratorTest - 2016.04.15 at 15h 09m 38s.xml">
+      <configuration name="LoginGeneratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginGeneratorTest - 2016.04.15 at 15h 10m 33s.xml">
+      <configuration name="LoginGeneratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginGeneratorTest - 2016.04.15 at 15h 12m 15s.xml">
+      <configuration name="LoginGeneratorTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1115000" />
+    <option name="totallyTimeSpent" value="1680000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1378" height="744" extended-state="0" />
@@ -1053,9 +1034,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="-27.821428">
           <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LoginServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1077,31 +1068,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LoginServiceTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/LoginGeneratorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dcll/LoginGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="66" column="27" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.62637365">
+          <caret line="62" column="46" selection-start-line="62" selection-start-column="46" selection-end-line="62" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LoginGeneratorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6868132">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>

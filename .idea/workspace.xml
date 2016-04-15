@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a9c94ec-de3e-4a46-af52-5460a54a13ac" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/LoginGeneratorTest.java" afterPath="$PROJECT_DIR$/src/test/java/LoginGeneratorTest.java" />
     </list>
     <ignored path="login-generator.iws" />
@@ -59,6 +58,18 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="LoginGenerator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dcll/LoginGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7307692">
+              <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="LoginServiceTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/LoginServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -71,11 +82,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginGeneratorTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LoginGeneratorTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/LoginGeneratorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5824176">
-              <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -819,14 +830,11 @@
       <updated>1460719918952</updated>
       <workItem from="1460719921856" duration="434000" />
       <workItem from="1460721960720" duration="15000" />
-      <workItem from="1460724039957" duration="1182000" />
+      <workItem from="1460724039957" duration="1371000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LoginGeneratorTest - 2016.04.15 at 14h 47m 03s.xml">
-      <configuration name="LoginGeneratorTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LoginGeneratorTest - 2016.04.15 at 14h 47m 20s.xml">
       <configuration name="LoginGeneratorTest" configurationId="JUnit" />
     </history-entry>
@@ -854,9 +862,12 @@
     <history-entry file="LoginGeneratorTest - 2016.04.15 at 15h 00m 09s.xml">
       <configuration name="LoginGeneratorTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="LoginGeneratorTest - 2016.04.15 at 15h 03m 12s.xml">
+      <configuration name="LoginGeneratorTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1652000" />
+    <option name="totallyTimeSpent" value="1841000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1378" height="744" extended-state="0" />
@@ -1037,16 +1048,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dcll/LoginGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6703297">
-          <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dcll/package-info.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1067,9 +1068,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/LoginGeneratorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5824176">
-          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dcll/LoginGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7307692">
+          <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -22,6 +22,8 @@ public class LoginGeneratorTest {
         assertEquals("JROL1",this.loginGenerator.generateLoginForNomAndPrenom("Rolling","Jean"));
         assertEquals("PDUR1",this.loginGenerator.generateLoginForNomAndPrenom("Dùrand","Paul"));
     }
-
-  
+    @Test
+    public void testCorrectionsLoginGenerator(){
+        assertEquals("PDU",this.loginGenerator.generateLoginForNomAndPrenom("Du","Paul"));
+    }
 }
